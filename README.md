@@ -65,14 +65,5 @@ medical-chatbot/ ├── app.py # Main Streamlit app ├── .env # Contains
 
 This project is licensed under the MIT License.
 
-## Contributing
-
-Contributions are welcome. Please follow these steps:
-
-1. Fork this repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit: `git commit -m "Add feature"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a pull request for review
 
 
